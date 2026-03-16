@@ -1,5 +1,5 @@
 Name of the project: Model of Credit Card Clients Default Prediction
-Гsing Dataset:
+Using Dataset:
       Default of Credit Card Clients Dataset from Kaggle.com
       (Default Payments of Credit Card Clients in Taiwan from 2005)
 Goal: To determine the probability of Default in the next month for a customer of a bank, 
